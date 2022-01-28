@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "nonprobability",
+    "dataset",
+    "Sturges",
+    "Hotdog"
+  ],
+  "alwaysUpdateLinks": true,
+  "legacyEditor": true,
+  "livePreview": true
+}
